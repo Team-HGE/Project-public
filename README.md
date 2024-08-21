@@ -3,6 +3,7 @@
 ![image](https://github.com/user-attachments/assets/ab4b8a21-93c8-4549-a1a5-6d2264912aaa)
 
 ### 🔗 [브로셔](https://teamsparta.notion.site/FOR-ZEKYLL-22402ba20c4143c5966768b2e844a02b)
+- 해당 브로셔와 노션에서 Git 전략과 트러블 슈팅을 보실 수 있습니다.
 ### 🔗 [노션](https://teamsparta.notion.site/Team-HGE-5e6f4bec6bd840749f195ea1d84e8dd7)
 
 <br/><br/>
